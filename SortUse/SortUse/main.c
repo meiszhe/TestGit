@@ -9,7 +9,8 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    
+    printf("i am testing.");
+    
     return 0;
 }
